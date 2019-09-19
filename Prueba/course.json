@@ -1,0 +1,18 @@
+{
+  "slug": "JavaScript",
+  "title": "JavaScript para principiantes",
+  "repository": "https://github.com/trigoporres/disCourses.git",
+  "level": "initial",
+  "categories": ["Programming", "Languages", "JavaScript", "initial"],
+  "tags": ["initial", "Language"],
+  "image": "javaScript.png",
+  "stars": 0,
+  "toc": [
+    {
+      "slug": "introduction",
+      "title": "¿Funciona?",
+      "path": "units/introduction.md",
+      "type": "doc"
+    }
+  ]
+}
